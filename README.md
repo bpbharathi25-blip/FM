@@ -65,13 +65,16 @@ MODEL GRAPH:
 
 
 Program
+ <img width="778" height="661" alt="image" src="https://github.com/user-attachments/assets/e1128c13-c89d-4043-be82-c9f686c78895" />
 
 
 Output Waveform
 
+<img width="715" height="590" alt="image" src="https://github.com/user-attachments/assets/7e18074d-c5c9-4d95-bc51-6117703b6c2c" />
 
 
 Tabulation
+<img width="1304" height="839" alt="image" src="https://github.com/user-attachments/assets/860dfcda-953c-404b-9ca6-b00b4a85764f" />
 
 
 
@@ -79,11 +82,11 @@ Calculation
 
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 661.7
 
-Modulation Index Practical	= 
+Modulation Index Practical	=2.5508
 
-Modulation Index Theoretical	=
+Modulation Index Theoretical	=2.3
 
 
 
